@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Pincassociation/Pincassociation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pinmook! If you discovered me, I probably made something. Like it? Say hi 💙
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Pincassociation/Pincassociation/issues/new?title=%F0%9F%8E%82+A+blue+cake+for+you%21&body=Here%27s+a+blue+cake+for+you+%F0%9F%92%99+Thanks+for+making+cool+stuff%21">
+    <img src="blue-cake-button.png" alt="Give me a blue cake!" width="260">
+  </a>
+  <br>
+  <sub>Click the cake, then press <b>Submit new issue</b> to send it 🎂</sub>
+  <br><br>
+  <img src="https://img.shields.io/github/issues-search/Pincassociation/Pincassociation?query=in%3Atitle%20%22blue%20cake%22&label=blue%20cakes%20received&color=7EC8E3&style=flat-square" alt="Blue cakes received">
+</p>
