@@ -4,7 +4,7 @@ I'm Pinmook! If you discovered me, I probably made something. Like it? Say hi ğŸ
 
 <p align="center">
   <a href="https://github.com/Pincassociation/Pincassociation/issues/new?title=%F0%9F%8E%82+A+blue+cake+for+you%21&body=Here%27s+a+blue+cake+for+you+%F0%9F%92%99+Thanks+for+making+cool+stuff%21">
-    <img src="blue-cake-button.png" alt="Give me a blue cake!" width="260">
+    <img src="blue-cake-button.png" alt="Cheers! Send me a blue cake" width="180">
   </a>
   <br>
   <sub>Click the cake, then press <b>Submit new issue</b> to send it ğŸ‚</sub>
